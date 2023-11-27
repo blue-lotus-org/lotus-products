@@ -1,6 +1,8 @@
 # lotus-products
 Public information, presentation, pitchdeck, ... from LotusChain
 
+#
+
 ### dCDN
 **Decentralized CDN**\
 We propose the development and integration of a decentralized Content Delivery Network (dCDN) using the InterPlanetary File System (IPFS). The dCDN aims to revolutionize the traditional CDN model by leveraging the decentralized nature of IPFS to provide a more efficient, secure, and scalable content delivery solution.\
