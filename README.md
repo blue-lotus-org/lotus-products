@@ -31,5 +31,5 @@ We propose integrating a decentralized AI for auditing smart contracts into our 
 #
 
 <div align="right">
- <small>  <a href="https://lotuschain.org">LotusChain</a> | <a href="contact@lotuschain.org">contact us</a> </small>
+ <small>  <a href="https://lotuschain.org">LotusChain</a> | <a href="mailto:contact@lotuschain.org">contact us</a> </small>
 </div>
