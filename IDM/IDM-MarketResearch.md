@@ -1,4 +1,4 @@
-> Standard Document Header. [doc](https://github.com/blue-lotus-org/business-/blob/main/Standard-Document-Header.md)
+> Any investment and participation is accepted.
 
 | Lifecycle Stage | Maturity      | Status | Latest Revision |
 |-----------------|---------------|--------|-----------------|
