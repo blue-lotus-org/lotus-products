@@ -27,3 +27,9 @@ We propose the development and launch of a decentralized application (Dapp) like
 **Smartcontract Audit Service (AI)**\
 We propose integrating a decentralized AI for auditing smart contracts into our Dapp. This AI will provide an automated and efficient way to detect problems and vulnerabilities in smart contracts. The Dapp will not collect any user data, ensuring privacy and security.\
 [here](https://github.com/blue-lotus-org/lotus-products/tree/main/Audit)
+
+#
+
+<div align="right">
+ <small>  <a href="https://lotuschain.org">LotusChain</a> | <a href="contact@lotuschain.org">contact us</a> </small>
+</div>
