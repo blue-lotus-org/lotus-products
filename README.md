@@ -1,4 +1,4 @@
-# lotus-products
+# Lotus-Chain Products
 Public information, presentation, pitchdeck, ... from LotusChain
 
 #
