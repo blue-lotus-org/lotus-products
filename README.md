@@ -25,6 +25,8 @@ C -->|Launch| E[Release Applications ]
 
 #
 
+> Any investment and participation is accepted.
+
 <div align="right">
  <small>  <a href="https://lotuschain.org">LotusChain</a> | <a href="mailto:contact@lotuschain.org">contact us</a> </small>
 </div>
