@@ -13,6 +13,18 @@ Public information, presentation, pitchdeck, ... from LotusChain
 
 #
 
+### Production Processing 
+```mermaid
+flowchart LR
+
+A[Idea] -->|R&D| B(Process)
+B --> C{Develop}
+C -->|Test| D[Beta Test]
+C -->|Launch| E[Release Applications ]
+```
+
+#
+
 <div align="right">
  <small>  <a href="https://lotuschain.org">LotusChain</a> | <a href="mailto:contact@lotuschain.org">contact us</a> </small>
 </div>
