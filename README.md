@@ -1,3 +1,7 @@
+<div align="right">
+<sub>Public | ShowCase</sub>
+</div>
+ 
 # Lotus-Chain Products
 Public information, presentation, pitchdeck, ... from LotusChain
 
