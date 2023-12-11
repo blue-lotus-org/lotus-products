@@ -19,6 +19,10 @@ Public information, presentation, pitchdeck, ... from LotusChain
 
 #
 
+Proposal of **IDM** via **Polygon** [here](https://jokerace.xyz/contest/polygon/0x15c5cAC608d9cdE3DAE90415bb603536A69bD279/submission/38880587214972381195600122593354249879399730475721321489914785707824309017217)
+
+#
+
 ### Production Processing 
 ```mermaid
 flowchart LR
