@@ -1,5 +1,5 @@
 <div align="right">
- <sub>For more information, visit <a href="https://lotuschain.org">LotusChain</a> or contact us at contact@lotuschain.org.</sub>
+ <sub>For more information, visit <a href="https://lotuschain.org">LotusChain</a> or contact us at contact@lotuschain.org</sub>
 </div>
 
 # BLUE LOTUS 
