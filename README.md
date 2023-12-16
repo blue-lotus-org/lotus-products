@@ -16,6 +16,7 @@ Public information, presentation, pitchdeck, ... from LotusChain
 | **Audit** | Smartcontract Audit Service (AI)<br /> <sub>We propose integrating a decentralized AI for auditing smart contracts into our Dapp. This AI will provide an automated and efficient way to detect problems and vulnerabilities in smart contracts. The Dapp will not collect any user data, ensuring privacy and security.</sub> | [here](https://github.com/blue-lotus-org/lotus-products/tree/main/Audit) |
 ||||
 | **BusinessPlan** | Businessplan and other public documents | [here](https://github.com/blue-lotus-org/lotus-products/tree/main/Business-Doc) |
+| **ALT IDM** | Public data about All-EVM ALT IDM | [here](https://github.com/blue-lotus-org/lotus-products/tree/main/Business-Doc/IDM-data) |
 
 #
 
