@@ -1641,4 +1641,4 @@ Investors and stakeholders alike can anticipate a dynamic and promising future w
 Thank you for read our journey,\
 **For more information, visit [LotusChain](https://lotuschain.org) or contact us at contact@lotuschain.org**.
 
-> Businnes Plan: Full Detailed Edition [Google Doc](https://docs.google.com/document/d/1RI5Yh4wgGJmvhXi708-9MLteg8wuF2kMxqJa0I7LUds/edit?usp=sharing)
+> Businnes Plan: Full Detailed Edition [Google Doc](https://docs.google.com/document/d/1RI5Yh4wgGJmvhXi708-9MLteg8wuF2kMxqJa0I7LUds/edit?usp=sharing) | Milestones [Google Doc](https://docs.google.com/document/d/1JVF6ukKSKOP4l3FvKHQ-k24d14nH7yU6z-VcLr4wQk8/edit?usp=sharing)
