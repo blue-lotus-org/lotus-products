@@ -4,7 +4,7 @@
 
 **Positioned for global impact, Blue Lotus invites investors to join this groundbreaking venture and contribute to the evolution of decentralized applications.**
 
-| Public data from "**ALT IDM** | Links |
+| Public data from "ALT IDM" | Links |
 |---|---|
 | Business plan | [google doc](https://docs.google.com/document/d/1qz2NzapPSQ9Rbn6ditq80WbBJpFNcR3oOlB1NHtIYDg/edit?usp=sharing) |
 | Roadmap | [google doc](https://docs.google.com/document/d/1eQ-KOfVS_t064lkFmWl4k_6Dd26DZqyClcA-GjyM6rs/edit?usp=sharing) |
