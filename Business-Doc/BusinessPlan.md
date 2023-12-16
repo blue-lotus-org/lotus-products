@@ -1,6 +1,10 @@
+<div align="right">
+ <sub>For more information, visit <a href="https://lotuschain.org">LotusChain</a> or contact us at contact@lotuschain.org.</sub>
+</div>
+
 # BLUE LOTUS 
-***Blockchain Solutions Business Plan***\
-<sub>For more information, visit <a href="https://lotuschain.org">LotusChain</a> or contact us at contact@lotuschain.org.</sub>
+***Blockchain Solutions Business Plan***
+
 > Businnes Plan: Full Detailed Edition [Google Doc](https://docs.google.com/document/d/1RI5Yh4wgGJmvhXi708-9MLteg8wuF2kMxqJa0I7LUds/edit?usp=sharing) | Milestones [Google Doc](https://docs.google.com/document/d/1JVF6ukKSKOP4l3FvKHQ-k24d14nH7yU6z-VcLr4wQk8/edit?usp=sharing)
 
 ## 1. Executive Summary:
