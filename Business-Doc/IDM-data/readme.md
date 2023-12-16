@@ -13,3 +13,4 @@
 | Pivot points | [google doc](https://docs.google.com/document/d/1ABCj7PvxiVgynhAzAQRCVmqA2xA7QT0KU5in_20UF0M/edit?usp=sharing) |
 | Go to market strategy | [google doc](https://docs.google.com/document/d/1i7EaPlAws8Chz_YT-9rjT76OnIq1b8Vic9hh8gheR6I/edit?usp=sharing) |
 | Financial projection | [google doc](https://docs.google.com/document/d/16uc2DPb14PorS18xJvLgf-Cg6y8LeG51fejRhlhG3fE/edit?usp=sharing) |
+| Investor FAQ | [google doc](https://docs.google.com/document/d/1KxCF2os8B5bw_qQaVt_B4gQlu-uItInUMVenIWDH_Dc/edit?usp=sharing) |
