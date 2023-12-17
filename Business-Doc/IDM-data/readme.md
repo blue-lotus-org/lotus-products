@@ -16,5 +16,5 @@
 | Stratregic Milestones | [google doc](https://docs.google.com/document/d/1KJyYdWtVRQ8tNEt3agcAABUr0ZSumDDVmuJJZAIzlWA/edit?usp=sharing) |
 | Investor FAQ | [google doc](https://docs.google.com/document/d/1KxCF2os8B5bw_qQaVt_B4gQlu-uItInUMVenIWDH_Dc/edit?usp=sharing) |
 | ALT IDM, FAQ | [google doc](https://docs.google.com/document/d/1iwGSXc5UYfk0_TW5ApJzVYzJWhprGh5WCT4hBe3tZJg/edit?usp=sharing) |
-| Present ||
+| .. Present .. | .............. |
 | Pitchdeck | [google slides](https://docs.google.com/presentation/d/1kQ9szugNyrZTz4bQWPEfjPhYHvZhsBnMQGt7G3S3_lc/edit?usp=sharing) |
