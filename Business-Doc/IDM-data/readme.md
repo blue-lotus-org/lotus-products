@@ -16,6 +16,7 @@
 | Financial projection | [google doc](https://docs.google.com/document/d/16uc2DPb14PorS18xJvLgf-Cg6y8LeG51fejRhlhG3fE/edit?usp=sharing) |
 | Stratregic Milestones | [google doc](https://docs.google.com/document/d/1KJyYdWtVRQ8tNEt3agcAABUr0ZSumDDVmuJJZAIzlWA/edit?usp=sharing) |
 | Forecast | [google doc](https://docs.google.com/document/d/1FuHQwLpVy9giKPXfbH_7UVLwHRzVK7AFm6Nr1eWIVSg/edit?usp=sharing) |
+| W Questions | [google doc](https://docs.google.com/document/d/1f8OjOUW4Br616m0uWKv3MeHccKHkcZPnwIFbPCpFnl8/edit?usp=sharing) |
 | Investor FAQ | [google doc](https://docs.google.com/document/d/1KxCF2os8B5bw_qQaVt_B4gQlu-uItInUMVenIWDH_Dc/edit?usp=sharing) |
 | ALT IDM, FAQ | [google doc](https://docs.google.com/document/d/1iwGSXc5UYfk0_TW5ApJzVYzJWhprGh5WCT4hBe3tZJg/edit?usp=sharing) |
 | .. _Advertise_ .. | .............. |
