@@ -9,6 +9,7 @@
 | Business plan | [google doc](https://docs.google.com/document/d/1qz2NzapPSQ9Rbn6ditq80WbBJpFNcR3oOlB1NHtIYDg/edit?usp=sharing) |
 | Roadmap | [google doc](https://docs.google.com/document/d/1eQ-KOfVS_t064lkFmWl4k_6Dd26DZqyClcA-GjyM6rs/edit?usp=sharing) |
 | .. _Other Important Data_ .. | .............. |
+| Key Metrics | [google doc](https://docs.google.com/document/d/1LNNQn1RgTACk7uUzgIWjQXUy7B5NpLPS9HVMh5YLAmc/edit?usp=sharing) |
 | KPI | [google doc](https://docs.google.com/document/d/16vY1LyKTWk9f4C6aKmVSWyrltUXJAyhXl2awKMgu8-g/edit?usp=sharing) |
 | Value proposition | [google doc](https://docs.google.com/document/d/1gUhZHpk8CedhkExDc1UhdIsqiiolK2ifwcgZQS4jmP0/edit?usp=sharing) |
 | Pivot points | [google doc](https://docs.google.com/document/d/1ABCj7PvxiVgynhAzAQRCVmqA2xA7QT0KU5in_20UF0M/edit?usp=sharing) |
