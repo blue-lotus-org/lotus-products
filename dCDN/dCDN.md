@@ -27,9 +27,9 @@ We propose the development and integration of a decentralized Content Delivery N
 3. **Development for New Releases**: Continuously improve and expand the dCDN's features based on user feedback and emerging technologies.
 
 ### Estimated Timeline and Costs:
-- **Beta Development**: 1 months, estimated cost: $X
-- **User Feedback and Iteration**: Ongoing, estimated cost: $X
-- **Development for New Releases**: Ongoing, estimated cost: $X per month
+- **Beta Development**: 1 months, estimated cost: $50,000
+- **User Feedback and Iteration**: Ongoing, estimated cost: $X50,000 (Data scientists)
+- **Development for New Releases**: Ongoing, estimated cost: $20,000 to $35,000 per month
 
 ### Creator Team:
 - **Mosi**: Blockchain Engineer and FINTECH Specialist
