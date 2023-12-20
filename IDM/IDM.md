@@ -15,7 +15,7 @@ We propose the development and launch of a decentralized application (Dapp) like
 3. Gas Optimization: Implement gas optimization techniques to minimize gas consumption during Dapp execution.
 
 #### Funding Request
-We request a minimum of $5,000 in crypto for each milestone, totaling $15,000 for the entire project.
+We request a minimum in crypto for each milestone, totaling $350,000 for the entire project.
 > This costs not included servers after launch the ALT IDM product.
 
 #### Creator Team
