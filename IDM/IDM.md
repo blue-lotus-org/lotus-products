@@ -52,6 +52,8 @@ The proposed funding will cover the following costs:
 - Fix and Upgrade Phase ≈ 30 to 45 days
 - Final Release ≈ 30 to 45 days
 
+> MVP has been launched, under the Public Beta Test. [MVP here...](https://lotuschain.org/idm) | send bug report: contact@lotuschain.org subject "idm"
+
 ---
 
 [LotusChain](https://lotuschain.org) | contact@lotuschain.org\
