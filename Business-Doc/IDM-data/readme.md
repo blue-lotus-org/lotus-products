@@ -4,6 +4,8 @@
 
 **Positioned for global impact, Blue Lotus invites investors to join this groundbreaking venture and contribute to the evolution of decentralized applications.**
 
+> View in notion ——→ [here](https://glass-raven-25b.notion.site/BLUE-LOTUS-5b8629cf5ccd40138c8565589fd16a61)
+
 | Public data from "ALT IDM" | Links |
 |---|---|
 | Business plan | [google doc](https://docs.google.com/document/d/1qz2NzapPSQ9Rbn6ditq80WbBJpFNcR3oOlB1NHtIYDg/edit?usp=sharing) |
