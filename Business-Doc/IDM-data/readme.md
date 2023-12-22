@@ -13,6 +13,7 @@
 | .. _Other Important Data_ .. | .............. |
 | Key Metrics | [google doc](https://docs.google.com/document/d/1LNNQn1RgTACk7uUzgIWjQXUy7B5NpLPS9HVMh5YLAmc/edit?usp=sharing) |
 | KPI | [google doc](https://docs.google.com/document/d/16vY1LyKTWk9f4C6aKmVSWyrltUXJAyhXl2awKMgu8-g/edit?usp=sharing) |
+| UPS | [google doc](https://docs.google.com/document/d/18AAnbheerdJ8ea_qiyvX771s8wWqjR3o96H_EOQ7_98/edit?usp=sharing) |
 | Value proposition | [google doc](https://docs.google.com/document/d/1gUhZHpk8CedhkExDc1UhdIsqiiolK2ifwcgZQS4jmP0/edit?usp=sharing) |
 | Pivot points | [google doc](https://docs.google.com/document/d/1ABCj7PvxiVgynhAzAQRCVmqA2xA7QT0KU5in_20UF0M/edit?usp=sharing) |
 | Go to market strategy | [google doc](https://docs.google.com/document/d/1i7EaPlAws8Chz_YT-9rjT76OnIq1b8Vic9hh8gheR6I/edit?usp=sharing) |
