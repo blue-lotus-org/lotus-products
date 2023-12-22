@@ -8,7 +8,7 @@
 
 | Public data from "ALT IDM" | Links |
 |---|---|
-| Business plan | [google doc](https://docs.google.com/document/d/1qz2NzapPSQ9Rbn6ditq80WbBJpFNcR3oOlB1NHtIYDg/edit?usp=sharing) |
+| Business plan | [google doc](https://docs.google.com/document/d/1qz2NzapPSQ9Rbn6ditq80WbBJpFNcR3oOlB1NHtIYDg/edit?usp=sharing) <br /> [notion](https://glass-raven-25b.notion.site/ALT-Business-Plan-b139be24445245778bcd206310f33fc5)|
 | Roadmap | [google doc](https://docs.google.com/document/d/1eQ-KOfVS_t064lkFmWl4k_6Dd26DZqyClcA-GjyM6rs/edit?usp=sharing) |
 | .. _Other Important Data_ .. | .............. |
 | Key Metrics | [google doc](https://docs.google.com/document/d/1LNNQn1RgTACk7uUzgIWjQXUy7B5NpLPS9HVMh5YLAmc/edit?usp=sharing) |
