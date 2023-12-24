@@ -27,6 +27,7 @@
 | .. _Advertise_ .. | .............. |
 | Explain ALT IDM | [google slides](https://docs.google.com/presentation/d/1SnehEHJr_9EpOIDkqcRTHbbykj4OA4Wc9HcwuGS5UyE/edit?usp=sharing) |
 | Why ALT IDM | [google doc](https://docs.google.com/document/d/1ehjV2OnrxM6-7VHCrWKAxWmQ0gsUJD278tT4IYIN7V0/edit?usp=sharing) |
+| Invest Opportunity | [google doc](https://docs.google.com/document/d/1MAtqKEump0H6yEb-revugvy7xxm1k8wndnYw4-eI39k/edit?usp=sharing) |
 | Partnership | [google doc](https://docs.google.com/document/d/1dQMsA5jvUKBP04j_w4_D0DvuMUiexSNxnrSD6QOZy5o/edit?usp=sharing) |
 | .. _Present_ .. | .............. |
 | Pitchdeck | [google slides](https://docs.google.com/presentation/d/1kQ9szugNyrZTz4bQWPEfjPhYHvZhsBnMQGt7G3S3_lc/edit?usp=sharing) |
