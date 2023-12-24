@@ -25,6 +25,7 @@
 | Investor FAQ | [google doc](https://docs.google.com/document/d/1KxCF2os8B5bw_qQaVt_B4gQlu-uItInUMVenIWDH_Dc/edit?usp=sharing) |
 | ALT IDM, FAQ | [google doc](https://docs.google.com/document/d/1iwGSXc5UYfk0_TW5ApJzVYzJWhprGh5WCT4hBe3tZJg/edit?usp=sharing) |
 | .. _Advertise_ .. | .............. |
+| Explain ALT IDM | [google slides](https://docs.google.com/presentation/d/1SnehEHJr_9EpOIDkqcRTHbbykj4OA4Wc9HcwuGS5UyE/edit?usp=sharing) |
 | Partnership | [google doc](https://docs.google.com/document/d/1dQMsA5jvUKBP04j_w4_D0DvuMUiexSNxnrSD6QOZy5o/edit?usp=sharing) |
 | .. _Present_ .. | .............. |
 | Pitchdeck | [google slides](https://docs.google.com/presentation/d/1kQ9szugNyrZTz4bQWPEfjPhYHvZhsBnMQGt7G3S3_lc/edit?usp=sharing) |
