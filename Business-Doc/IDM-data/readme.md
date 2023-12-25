@@ -19,6 +19,7 @@
 | Pivot points | [google doc](https://docs.google.com/document/d/1ABCj7PvxiVgynhAzAQRCVmqA2xA7QT0KU5in_20UF0M/edit?usp=sharing) |
 | Go to market strategy | [google doc](https://docs.google.com/document/d/1i7EaPlAws8Chz_YT-9rjT76OnIq1b8Vic9hh8gheR6I/edit?usp=sharing) |
 | Financial projection | [google doc](https://docs.google.com/document/d/16uc2DPb14PorS18xJvLgf-Cg6y8LeG51fejRhlhG3fE/edit?usp=sharing) |
+| User Acquisition Strategy | [google doc](https://docs.google.com/document/d/1RcfD38R_YIaXhJ-faG6oBS7ftGX8uCr1-qsMIAknXfk/edit?usp=sharing) |
 | Stratregic Milestones | [google doc](https://docs.google.com/document/d/1KJyYdWtVRQ8tNEt3agcAABUr0ZSumDDVmuJJZAIzlWA/edit?usp=sharing) |
 | Forecast | [google doc](https://docs.google.com/document/d/1FuHQwLpVy9giKPXfbH_7UVLwHRzVK7AFm6Nr1eWIVSg/edit?usp=sharing) |
 | W Questions | [google doc](https://docs.google.com/document/d/1f8OjOUW4Br616m0uWKv3MeHccKHkcZPnwIFbPCpFnl8/edit?usp=sharing) |
