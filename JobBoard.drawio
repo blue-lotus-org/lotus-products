@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T22:13:08.788Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eWV7Pv6mVxK65BfRrJPg" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T22:21:31.621Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GaTptt7FB0-StghQX43b" version="22.1.16" type="github">
   <diagram name="Page-1" id="RCzVIw21s0QxX4_HmofW">
     <mxGraphModel dx="2045" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -399,6 +399,42 @@
         </mxCell>
         <mxCell id="MbMHbuHJUqX0_KfxS6vJ-60" value="Approve by Admin&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="1646.255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-62" value="PostJob" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MbMHbuHJUqX0_KfxS6vJ-63" target="MbMHbuHJUqX0_KfxS6vJ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-63" value="Step 1&lt;br&gt;&lt;br&gt;Add Title &amp;amp;&lt;br&gt;description&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MbMHbuHJUqX0_KfxS6vJ-64" target="MbMHbuHJUqX0_KfxS6vJ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-64" value="Step 2&lt;br&gt;&lt;br&gt;Select category&lt;br&gt;and add require skills" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MbMHbuHJUqX0_KfxS6vJ-66" target="MbMHbuHJUqX0_KfxS6vJ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-66" value="Step 3&lt;br&gt;&lt;br&gt;Add budget&amp;nbsp; range&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MbMHbuHJUqX0_KfxS6vJ-68" target="MbMHbuHJUqX0_KfxS6vJ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-68" value="Step 4&lt;br&gt;&lt;br&gt;Upload Docs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MbMHbuHJUqX0_KfxS6vJ-70" target="MbMHbuHJUqX0_KfxS6vJ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-70" value="Step 6&lt;br&gt;&lt;br&gt;Approve by admin" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbMHbuHJUqX0_KfxS6vJ-72" value="Step 7&lt;br&gt;&lt;br&gt;Pay 30% of budget&lt;br&gt;for deposit&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
