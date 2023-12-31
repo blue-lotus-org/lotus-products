@@ -33,3 +33,4 @@
 | Partnership | [google doc](https://docs.google.com/document/d/1dQMsA5jvUKBP04j_w4_D0DvuMUiexSNxnrSD6QOZy5o/edit?usp=sharing) |
 | .. _Present_ .. | .............. |
 | Pitchdeck | [google slides](https://docs.google.com/presentation/d/1kQ9szugNyrZTz4bQWPEfjPhYHvZhsBnMQGt7G3S3_lc/edit?usp=sharing) |
+| ALT IDM showcase | [presentation](https://www.canva.com/design/DAF4jVUeq2Y/Pg-pgO58RbCKKvLXKncRQw/view?utm_content=DAF4jVUeq2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
