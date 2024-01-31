@@ -36,17 +36,17 @@ C -->|Launch| E[Release Applications ]
 
 #
 
-**About Blue Lotus (LotusChain)**:
+**About Blue Lotus (LotusChain)**:\
 Blue Lotus, known in as LotusChain, is at the forefront of blockchain innovation. We specialize in devising and implementing decentralized solutions tailored for both developers and end-users. Our strategic business plan is anchored in the creation and integration of avant-garde products that leverage blockchain technology's full potential.
 
 **Core Focus**:
 - Pioneering Decentralized Solutions in Blockchain Technology.
 - Bridging the gap between cutting-edge technology and practical applications.
 
-**Our Mission**:
+**Our Mission**:\
 To empower individuals and organizations by providing blockchain solutions that are not only secure and efficient but also intuitive and user-friendly.
 
-**Our Vision**:
+**Our Vision**:\
 Aspiring to be the vanguard in the blockchain domain, LotusChain is dedicated to being recognized for our unwavering commitment to security, operational efficiency, and a user-centric approach.
 
 **Innovative Product Suite**:
