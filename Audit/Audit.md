@@ -11,7 +11,7 @@
 We propose integrating a decentralized AI for auditing smart contracts into our Dapp. This AI will provide an automated and efficient way to detect problems and vulnerabilities in smart contracts. The Dapp will not collect any user data, ensuring privacy and security.
 - core used **LLaMA** based on "lotus-chain researches"
 - version **0.1.0** trained with live smartcontracts launched on ethereum mainnets like a "paranoia detector" - **offline**
-- version **0.1.1** trained with live smartcontracts launched on 3 blockchain mainnets and off-chain 400,000 buggy smartcontracts - **launched**
+- version **0.1.1** trained with live smartcontracts launched on 3 blockchain mainnets and off-chain 40,000 buggy smartcontracts - **launched**
 - version **0.1.2** trained with live smartcontracts launched on 16 blockchain mainnets - **process not finish**
 - version **0.2.0**: Reverse engineering method. _Not started yet_.
 
